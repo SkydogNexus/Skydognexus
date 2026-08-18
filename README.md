@@ -1,16 +1,33 @@
-## Hi there 👋
+# SkyDog Nexus | SKYD
 
-<!--
-**SkydogNexus/Skydognexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Intelligence • Network • Freedom**
 
-Here are some ideas to get you started:
+Official GitHub presence of SkyDog Nexus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SkyDog Nexus is a technology-first ecosystem focused on AI intelligence infrastructure, autonomous research, decision intelligence, blockchain infrastructure, and real-world utility.
+
+## Core Technology Direction
+
+- Multi-Agent AI Intelligence
+- Autonomous Research Systems
+- Truth & Verification Infrastructure
+- Decision Intelligence
+- Persistent Intelligence Memory
+- Enterprise Digital Twins
+- Blockchain Infrastructure
+- Real-World Asset Intelligence
+- Financial & Market Intelligence
+- Agriculture, Manufacturing & Physical AI Research
+- SKYD Ecosystem Utility
+
+## Official Website
+
+https://skydognexus.com
+
+## Contact
+
+contact@skydognexus.com
+
+## Security
+
+Official SkyDog Nexus repositories will never publish private keys, seed phrases, deployer credentials, production `.env` files, or other sensitive secrets.
